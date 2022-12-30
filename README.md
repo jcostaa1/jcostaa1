@@ -1,5 +1,5 @@
 - 👋 Hey, I’m @jcostaa1!
-- 👀 I’m interested in data engineering, data analysis and data science things.
+- 👀 I’m interested in data engineering, data analysis, data science and data things.
 - 🌱 I’m currently learning python, R and (almost) everything about data.
 
 <!---
