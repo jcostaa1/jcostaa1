@@ -1,4 +1,4 @@
-## <div align="center"<b> 👋🏻 Hi everyone, I’m Júlia! 👩🏼‍💻 </b> </div>
+## <div align="center"><b> 👋🏻 Hi everyone, I’m Júlia! 👩🏼‍💻 </b> </div>
   
 I’m so interested in <b>data engineering, data analysis, data science</b> and <b>data things</b>. 📊
 
