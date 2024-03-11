@@ -1,6 +1,6 @@
 ## <b> 👋🏻 Hi everyone, I’m Júlia! 👩🏼‍💻 </b>
   
-📉 I’m so interested in <b>data engineering, data analysis, data science</b> and <b>data things</b>. 📈
+I’m so interested in <b>data engineering, data analysis, data science</b> and <b>data things</b>. 📊
 
 Here is only Python, R and (almost) everything about data (and a little bit of Java).
 
@@ -30,6 +30,11 @@ src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg">
   </a> 
 </div>
 
+##
+
+ <p align="center">
+  <img src=https://visme.co/blog/wp-content/uploads/2016/04/Header-5.gif> 
+</p>
 
 <!---
 jcostaa1/jcostaa1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
