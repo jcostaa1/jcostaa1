@@ -32,7 +32,7 @@ src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg">
 
 ##
  <p align="center">
-  <img src=www.customersuccessfieldguide.com%2Ffieldguide%2Fcustomer-Success-necessary-skills-data&psig=AOvVaw0KBvfwSf8F9ZzMth-0zmQr&ust=1710204367139000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDGjPD96oQDFQAAAAAdAAAAABAE> 
+  <img src=https://www.customersuccessfieldguide.com/fieldguide/customer-Success-necessary-skills-data> 
 </p>
 
 
