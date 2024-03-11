@@ -19,10 +19,7 @@ src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg
 src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg">
 </div>
 
-
-
-
-<div>
+<div style="display: inline_block">
   <a href="https://www.linkedin.com/in/juliacosta2/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
