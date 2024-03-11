@@ -30,12 +30,6 @@ src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg">
   </a> 
 </div>
 
-##
- <p align="center">
-  <img src=https://www.customersuccessfieldguide.com/fieldguide/customer-Success-necessary-skills-data> 
-</p>
-
-
 
 <!---
 jcostaa1/jcostaa1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
