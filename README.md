@@ -7,6 +7,9 @@ Here is only Python, R and (almost) everything about data (and a little bit of J
 BTW, I'm graduated in System Analysis and Development and currently, I'm studying Data Science and Analytics at USP. 
 
 So appreciated for tech things, I'm will <i>trying to learn</i> day by day... 🦾
+
+##
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="R" height="30" width="40" 
@@ -26,6 +29,12 @@ src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>
+
+##
+ <p align="center">
+  <img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.customersuccessfieldguide.com%2Ffieldguide%2Fcustomer-Success-necessary-skills-data&psig=AOvVaw0KBvfwSf8F9ZzMth-0zmQr&ust=1710204367139000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDGjPD96oQDFQAAAAAdAAAAABAE> 
+</p>
+
 
 
 <!---
