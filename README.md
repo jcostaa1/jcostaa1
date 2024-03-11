@@ -2,7 +2,7 @@
   
 I’m so interested in <b>data engineering, data analysis, data science</b> and <b>data things</b>.
 
-Here is only Python, R and (almost) everything about data... 📊
+Here is only Python, R and (almost) everything about data (and a little bit of Java)... 📊
 BTW, I'm graduated in System Analysis and Development and currently, I'm studying Data Science and Analytics at USP. 
 
 So appreciated for tech things, I'm will <i>trying to learn</i> day by day... 🦾
@@ -17,6 +17,8 @@ src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg">
 src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
   <img align="center" alt="AWS" height="30" width="40" 
 src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg">
+</div>
+<div>
   <a href="https://www.linkedin.com/in/juliacosta2/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
