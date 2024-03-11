@@ -10,7 +10,7 @@ I'm so appreciated for tech things. I will trying to learn day by day... 🦾
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="PowerBI" height="30" width="40" 
-src="[https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png](https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Desktop.svg)">
+src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg">
   
 </div>
 <!---
