@@ -1,8 +1,6 @@
 ## <div align="center"><b> 👋🏻 Hi everyone, I’m Júlia! 👩🏼‍💻 </b> </div>
   
-I’m so interested in <b>data engineering, data analysis, data science</b> and <b>data things</b>. 📊
-
-Here is only Python, R and (almost) everything about data (and a little bit of Java).
+I’m so interested in <b>data engineering, data analysis, data science</b> and <b>data things</b>. Python, R and a little bit of Java are on the list too.
 
 BTW, I'm graduated in System Analysis and Development and currently, I'm studying Data Science and Analytics at USP. 
 
