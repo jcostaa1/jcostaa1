@@ -2,7 +2,7 @@
   
 I’m so interested in <b>data engineering, data analysis, data science</b> and <b>data things</b>. Python, R and a little bit of Java are on the list too.
 
-BTW, I'm graduated in System Analysis and Development and currently, I'm studying Data Science and Analytics at USP. 
+I'm graduated in System Analysis and Development and currently, I'm studying Data Science and Analytics at USP. 
 
 So appreciated for tech things, I'm will <i>trying to learn</i> day by day... 🦾
 
