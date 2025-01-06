@@ -8,18 +8,16 @@
   <br><b>Data enthusiast</b> | I'm so passionate about <b>Data Engineering</b>.</br>
   <b>Software Developer</b> by degree | Postgraduate in <b>Data Science and Analytics</b> from USP.
 </p>
+
 <p align="center">
   Passionate about data, I'm constantly seeking ways to turn information into intelligent solutions. 
   <br>My journey in the world of data is fueled by curiosity, and I'm always refining my skills in data engineering and data analysis.</br>
 </p>
 
 <!--skills and tools-->
-<p align="left">
-  <br>🦄 Python, Java and R</br>
-  💾 SQL, PL/SQL and NoSQL
-  <br>☁️ AWS, GCP and Azure</br>
-  🛠️ DBT, Databricks, Apache Airflow (2x certified), Kafka, Docker
-  <br>📺 Power BI, Tableau and Pentaho</br>
+<p align="center">
+I work with Python, Java, and R, and have experience with SQL, PL/SQL, and NoSQL databases. 
+<br>I am familiar with cloud platforms such as AWS, GCP, and Azure, and I have expertise in tools like DBT, Databricks, Apache Airflow (2x certified), Kafka, and Docker. Additionally, I work with data visualization tools like Power BI, Tableau, and Pentaho.</br>
 </p>
 
 <p align="left">
