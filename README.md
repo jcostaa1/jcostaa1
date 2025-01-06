@@ -12,18 +12,12 @@
 
 <!--skills and tools-->
 <p align="left">
-  🦄 
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
-</p>
-
-<!--social media-->
-<p align="left">
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-</a>
+  🦄 Python, PySpark, Java and R
+  💾 SQL, PL/SQL and NoSQL
+  ☁️ AWS, GCP and Azure
 </p>
 
 <!--graphs images-->
 <p align="center">
-    <img src="https://github.com/jcostaa1/jcostaa1/blob/main/images/graph.gif"/></a>
+    <img src=""/></a>
 </p>
