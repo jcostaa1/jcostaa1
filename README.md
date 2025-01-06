@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/jcostaa1/jcostaa1/blob/main/images/graph.gif" width=200>
+  <img src="https://github.com/jcostaa1/jcostaa1/blob/main/images/graph.gif" width=500>
 </p>
 
 <!--skills and tools-->
