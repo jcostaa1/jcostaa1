@@ -5,8 +5,7 @@
 
 <!--bio-->
 <p align="center">
-  <br><b>💡 Data enthusiast</b> | I'm so passionate about <b>Data Engineering</b>.</br>
-  <b>📚 Software Developer</b> by degree | Postgraduate in <b>Data Science and Analytics</b> from USP.
+  <b><b>Data enthusiast</b> | Software Developer</b> by degree | Postgraduate in <b>Data Science and Analytics</b> from USP.
 </p>
 
 <p align="center">
@@ -15,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/jcostaa1/jcostaa1/blob/main/images/graph.gif">
+  <img src="https://github.com/jcostaa1/jcostaa1/blob/main/images/graph.gif" width=200>
 </p>
 
 <!--skills and tools-->
