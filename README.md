@@ -7,7 +7,7 @@
 
 <!--bio-->
 <p align="left">
-  🔍 <b>Data enthusiast</b> | I'm so passionate about <b>Data Engineering</b>.
+  <br>🔍 <b>Data enthusiast</b> | I'm so passionate about <b>Data Engineering</b>.</br>
   🎓 <b>Software Developer</b> by degree | Postgraduate in <b>Data Science and Analytics</b> from USP.
   
   Passionate about data, I'm constantly seeking ways to turn information into intelligent solutions. 
