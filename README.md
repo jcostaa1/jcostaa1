@@ -5,9 +5,9 @@
 
 <!--bio-->
 <p align="center">
-  <b>Data enthusiast</b> 
-    <br>Software Developer</b> by degree</br> 
-    Postgraduate in <b>Data Science and Analytics</b> from USP.
+  <b>💡 Data enthusiast</b> 
+    <br>👩🏼‍🎓 Software Developer</b> by degree</br> 
+    📚 Postgraduate in <b>Data Science and Analytics</b> from USP.
 </p>
 
 <p align="center">
