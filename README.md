@@ -20,6 +20,6 @@ I work with Python, Java, and R, and have experience with SQL, PL/SQL, and NoSQL
 <br>I am familiar with cloud platforms such as AWS, GCP, and Azure, and I have expertise in tools like DBT, Databricks, Apache Airflow (2x certified), Kafka, and Docker. Additionally, I work with data visualization tools like Power BI, Tableau, and Pentaho.</br>
 </p>
 
-<p align="left">
-  🌱 Always learning and expanding my knowledge in emerging technologies.
+<p align="center">
+  <i>🌱 Always learning and expanding my knowledge in emerging technologies.</i>
 </p>
