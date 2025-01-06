@@ -1,5 +1,5 @@
 <!--header-->
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi! I'm Júlia! 👋🏻; Nice to meet ya 🥳;✨ Welcome to my repo ✨&font=Poiret+One&&color=FFFFFF&center=true&width=400&height=50&duration=4000&pause=1000">
 </p>
 
