@@ -18,9 +18,9 @@
 <p align="left">
   <br>🦄 Python, Java and R</br>
   💾 SQL, PL/SQL and NoSQL
-  ☁️ AWS, GCP and Azure
+  <br>☁️ AWS, GCP and Azure</br>
   🛠️ DBT, Databricks, Apache Airflow (2x certified), Kafka, Docker
-  📺 Power BI, Tableau and Pentaho
+  <br>📺 Power BI, Tableau and Pentaho</br>
 </p>
 
 <p align="left">
