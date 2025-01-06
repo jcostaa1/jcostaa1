@@ -1,8 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi, I'm Júlia;Welcome to my repositories!&font=Poiret+One&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poiret+One&pause=1000&color=AE136C&width=450&height=60&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi, I'm Júlia! 👋🏻;Welcome to my repositories!&font=Poiret+One&color=AE136C&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 <p align="left">
