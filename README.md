@@ -1,4 +1,4 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvisme.co%2Fblog%2Fcreate-animated-charts%2F&psig=AOvVaw1vDd5mG-PWBD8W-skECrXH&ust=1736286786640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIid2ryK4ooDFQAAAAAdAAAAABAJ" min-width="400px" max-width="400px" width="400px" align="right">
+<img src=https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
