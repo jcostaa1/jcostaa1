@@ -1,4 +1,4 @@
-<img src="" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github.com/micaellimedeiros/micaellimedeiros/blob/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <!--header-->
 <p align="left">
