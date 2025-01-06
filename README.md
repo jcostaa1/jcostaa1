@@ -1,5 +1,5 @@
 <!--header-->
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi! I'm Júlia! 👋🏻; Nice to meet ya 🥳;✨ Welcome to my repo ✨&font=Poiret+One&&color=FFFFFF&center=true&width=400&height=50&duration=4000&pause=1000">
 </p>
 
@@ -12,6 +12,10 @@
 <p align="center">
   Passionate about data, I'm constantly seeking ways to turn information into intelligent solutions. 
   <br>My journey in the world of data is fueled by curiosity, and I'm always refining my skills in data engineering and data analysis.</br>
+</p>
+
+<p align="center">
+  <img src="">
 </p>
 
 <!--skills and tools-->
