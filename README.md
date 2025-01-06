@@ -11,7 +11,7 @@
   🎓 <b>Software Developer</b> by degree | Postgraduate in <b>Data Science and Analytics</b> from USP.
   
   Passionate about data, I'm constantly seeking ways to turn information into intelligent solutions. 
-  My journey in the world of data is fueled by curiosity, and I'm always refining my skills in data engineering and data analysis.
+  <br>My journey in the world of data is fueled by curiosity, and I'm always refining my skills in data engineering and data analysis.</br>
 </p>
 
 <!--skills and tools-->
