@@ -1,8 +1,8 @@
-<img src="https://github.com/micaellimedeiros/micaellimedeiros/blob/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github.com/micaellimedeiros/micaellimedeiros/blob/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right">
 
 <!--header-->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi! I'm Júlia! 👋🏻; Nice to meet ya 🥳;✨ Welcome to my repo ✨&font=Poiret+One&color=AE136C&center=true&width=480&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi! I'm Júlia! 👋🏻; Nice to meet ya 🥳;✨ Welcome to my repo ✨&font=Poiret+One&color=AE136C&center=true&width=400&height=50&duration=4000&pause=1000">
 </p>
 
 <!--bio-->
