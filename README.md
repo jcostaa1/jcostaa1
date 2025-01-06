@@ -21,5 +21,5 @@ I work with Python, Java, and R, and have experience with SQL, PL/SQL, and NoSQL
 </p>
 
 <p align="center">
-  <i>🌱 Always learning and expanding my knowledge in emerging technologies.</i>
+  🌱 <i>Always learning and expanding my knowledge in emerging technologies.</i>
 </p>
