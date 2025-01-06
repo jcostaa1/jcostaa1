@@ -13,7 +13,7 @@
 <!--skills and tools-->
 <p align="left">
   🦄 Python, PySpark, Java and R
-  💾 SQL, PL/SQL and NoSQL
+  <br>💾 SQL, PL/SQL and NoSQL</br>
   ☁️ AWS, GCP and Azure
 </p>
 
