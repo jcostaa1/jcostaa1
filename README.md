@@ -5,13 +5,8 @@
 
 <!--bio-->
 <p align="center">
-  <b>💡 <i>Data enthusiast</i></b> 
+  <b>💡<i>I'm a data enthusiast, always exploring new ways to analyze and understand data.</i></b>
     <br>👩🏼‍🎓 <b>Software Developer</b> by degree | Postgraduate in <b>Data Science and Analytics</b> from USP.
-</p>
-
-<p align="center">
-  Passionate about data, I'm constantly seeking ways to turn information into intelligent solutions. 
-  <br>My journey in the world of data is fueled by curiosity, and I'm always refining my skills in data engineering and data analysis.</br>
 </p>
 
 <p align="center">
