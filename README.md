@@ -4,9 +4,9 @@
 </p>
 
 <!--bio-->
-<p align="left">
-  <br>🔍 <b>Data enthusiast</b> | I'm so passionate about <b>Data Engineering</b>.</br>
-  🎓 <b>Software Developer</b> by degree | Postgraduate in <b>Data Science and Analytics</b> from USP.
+<p align="center">
+  <br><b>Data enthusiast</b> | I'm so passionate about <b>Data Engineering</b>.</br>
+  <b>Software Developer</b> by degree | Postgraduate in <b>Data Science and Analytics</b> from USP.
   
   Passionate about data, I'm constantly seeking ways to turn information into intelligent solutions. 
   <br>My journey in the world of data is fueled by curiosity, and I'm always refining my skills in data engineering and data analysis.</br>
