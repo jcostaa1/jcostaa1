@@ -20,5 +20,5 @@ I love working with Python, Java, and R to build solutions and dive deep into SQ
 </p>
 
 <p align="center">
-  🌱 <i>Always learning and expanding my knowledge in emerging technologies.</i>
+  🌱 <i>Always learning and expanding my knowledge in "cutting-edge" technologies.</i>
 </p>
