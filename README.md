@@ -9,15 +9,15 @@
     <br>👩🏼‍🎓 <b>Software Developer</b> by degree | Postgraduate in <b>Data Science and Analytics</b> from USP.
 </p>
 
-<p align="center">
-  <img src="https://github.com/jcostaa1/jcostaa1/blob/main/images/graph.gif" width=500>
-</p>
-
 <!--skills and tools-->
 <p align="center">
 I love working with Python, Java, and R to build solutions and dive deep into SQL, PL/SQL, and NoSQL databases. 
 <br>I enjoy playing with cloud platforms like AWS, and I’m passionate about data engineering tools such as DBT, Databricks (1x certified), Apache Airflow (2x certified), Kafka, and Docker. </br>
 ✨ I also create interactive data visualization dashboards helping to transform raw data into insightful stories. ✨</p>
+
+<p align="center">
+  <img src="https://github.com/jcostaa1/jcostaa1/blob/main/images/graph.gif" width=500>
+</p>
 
 <p align="center">
   🌱 <i>Always learning and expanding my knowledge in emerging technologies.</i>
