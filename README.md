@@ -16,8 +16,7 @@
 <!--skills and tools-->
 <p align="center">
 I love working with Python, Java, and R to build solutions and dive deep into SQL, PL/SQL, and NoSQL databases. 
-<br>I enjoy playing with cloud platforms like AWS, and I’m passionate about data engineering tools such as DBT, Databricks (1x certified), Apache Airflow (2x certified), Kafka, and Docker.</br>
-<br>I also create interactive data visualization dashboards helping to transform raw data into insightful stories.</br></p>
+<br>I enjoy playing with cloud platforms like AWS, and I’m passionate about data engineering tools such as DBT, Databricks (1x certified), Apache Airflow (2x certified), Kafka, and Docker. <i>I also create interactive data visualization dashboards helping to transform raw data into insightful stories.</i></br></p>
 
 <p align="center">
   🌱 <i>Always learning and expanding my knowledge in emerging technologies.</i>
