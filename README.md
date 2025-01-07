@@ -5,7 +5,7 @@
 
 <!--bio-->
 <p align="center">
-  <b>💡 <i>I'm a data enthusiast, always exploring new ways to analyze and understand data.</i></b>
+  <b>💡 <i>I'm a data enthusiast.</i></b>
     <br>👩🏼‍🎓 <b>Software Developer</b> by degree | Postgraduate in <b>Data Science and Analytics</b> from USP.
 </p>
 
