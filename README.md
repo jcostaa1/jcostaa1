@@ -15,9 +15,8 @@
 
 <!--skills and tools-->
 <p align="center">
-I work with Python, Java, and R, and have experience with SQL, PL/SQL, and NoSQL databases. 
-<br>I am familiar with cloud platforms such as AWS, and I have expertise in tools related to data engineering like DBT, Databricks (1x certified), Apache Airflow (2x certified), Kafka, and Docker. Additionally, I work with data visualization tools like Power BI, Tableau and dashboards created with programming language.</br>
-</p>
+I love working with Python, Java, and R to build solutions and dive deep into SQL, PL/SQL, and NoSQL databases. 
+<br>I enjoy playing with cloud platforms like AWS, and I’m passionate about data engineering tools such as DBT, Databricks (1x certified), Apache Airflow (2x certified), Kafka, and Docker. I also create interactive data visualization dashboards with tools like Power BI and Tableau, helping to transform raw data into insightful stories.</br></p>
 
 <p align="center">
   🌱 <i>Always learning and expanding my knowledge in emerging technologies.</i>
