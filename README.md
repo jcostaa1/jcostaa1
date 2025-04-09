@@ -14,7 +14,7 @@
 I love working with Python, Java, and R to build solutions and dive deep into SQL, PL/SQL, and NoSQL databases. 
 <br>I enjoy playing with cloud platforms like AWS, and I’m passionate about data engineering tools such as DBT, Databricks (1x certified), Apache Airflow (2x certified), Kafka, and Docker. </br>
 ✨ I also create interactive data visualization dashboards helping to transform raw data into insightful stories. ✨
-🔧 Currently transitioning into Site Reliability Engineering, combining my data background with a growing passion for reliability, automation, and infrastructure. 🚀</p>
+<br>🔧 Currently transitioning into Site Reliability Engineering, combining my data background with a growing passion for reliability, automation, and infrastructure. 🚀</br></p>
 
 <p align="center">
   <img src="https://github.com/jcostaa1/jcostaa1/blob/main/images/graph.gif" width=500>
