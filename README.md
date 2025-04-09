@@ -12,17 +12,12 @@
 <!--skills and tools-->
 <p align="center">
 I love working with Python and Java to build solutions and dive deep into SQL, PL/SQL, and NoSQL databases. 
-<br>Cloud lover ☁️ (hi, AWS) and fan of tools like DBT, Databricks (1x certified), Apache Airflow (2x certified), Kafka, and Docker. </br>
-✨ I also create interactive data visualization dashboards helping to transform raw data into insightful stories. ✨
-<br>🛠️ Currently diving into the DevOps world — discovering, breaking, automating, fixing, and loving every second of it.</br>
+<br>Cloud lover ☁️ (hiiiiiiiii, AWS) and fan of tools like DBT, Databricks (1x certified), Apache Airflow (2x certified), Kafka, and Docker. </br>
+<br>🛠️ Currently diving into the DevOps world — discovering, breaking, automating, fixing, and loving every second of it. 🚀</br>
 </p>
 
 <p align="center">
-  <img src="https://github.com/jcostaa1/jcostaa1/blob/main/images/graph.gif" width=500>
-</p>
-
-<p align="center">
-  🌱 <i>Constantly learning and diving into the coolest tech trends.</i>
+  🌱🔎 <i>Endlessly curious, always exploring the latest tech trends.</i>
 </p>
 
 
