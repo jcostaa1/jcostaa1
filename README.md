@@ -30,7 +30,7 @@ I love working with Python, Java, and R to build solutions and dive deep into SQ
     <td>
       <br />
       <img
-        align="center"
+        align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=jcostaa1&theme=dark&hide_border=false"
         alt="Github Stats"
       />
