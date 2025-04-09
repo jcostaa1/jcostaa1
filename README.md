@@ -13,7 +13,8 @@
 <p align="center">
 I love working with Python, Java, and R to build solutions and dive deep into SQL, PL/SQL, and NoSQL databases. 
 <br>I enjoy playing with cloud platforms like AWS, and I’m passionate about data engineering tools such as DBT, Databricks (1x certified), Apache Airflow (2x certified), Kafka, and Docker. </br>
-✨ I also create interactive data visualization dashboards helping to transform raw data into insightful stories. ✨</p>
+✨ I also create interactive data visualization dashboards helping to transform raw data into insightful stories. ✨
+🔧 Currently transitioning into Site Reliability Engineering, combining my data background with a growing passion for reliability, automation, and infrastructure. 🚀</p>
 
 <p align="center">
   <img src="https://github.com/jcostaa1/jcostaa1/blob/main/images/graph.gif" width=500>
@@ -22,30 +23,3 @@ I love working with Python, Java, and R to build solutions and dive deep into SQ
 <p align="center">
   🌱 <i>Constantly learning and diving into the coolest tech trends.</i>
 </p>
-
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=jcostaa1&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcostaa1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=jcostaa1&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
