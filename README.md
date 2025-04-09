@@ -13,7 +13,7 @@
 <p align="center">
 I love working with Python and Java to build solutions and dive deep into SQL, PL/SQL, and NoSQL databases. 
 <br>Cloud lover ☁️ (hi, AWS) and fan of tools like DBT, Databricks (1x certified), Apache Airflow (2x certified), Kafka, and Docker. </br>
-✨ I also create interactive data visualization dashboards helping to transform raw data into insightful stories. ✨</p>
+✨ I also create interactive data visualization dashboards helping to transform raw data into insightful stories. ✨
 <br>🛠️ Currently diving into the DevOps world — discovering, breaking, automating, fixing, and loving every second of it.</br>
 </p>
 
