@@ -6,17 +6,18 @@
 <!--bio-->
 <p align="center">
   <b><i>I'm a little data slash tech enthusiast.</i></b>
-    <br>👩🏼‍🎓 <b>Software Developer</b> by degree | Postgraduate in <b>Data Science and Analytics</b> from USP.
+    <br>👩🏼‍🎓 <b>Software Developer</b> by degree | Postgraduate in <b>Data Science and Analytics</b> from USP | Blending my data background with DevOps.
 </p>
 
 <!--skills and tools-->
 <p align="center">
 I love working with Python and Java to build solutions and dive deep into SQL, PL/SQL, and NoSQL databases. 
-<br>I enjoy playing with cloud platforms like AWS, and I’m passionate about data engineering tools such as DBT, Databricks (1x certified), Apache Airflow (2x certified), Kafka, and Docker. </br>
+<br>Cloud lover ☁️ (hi, AWS) and fan of tools like DBT, Databricks (1x certified), Apache Airflow (2x certified), Kafka, and Docker. </br>
 ✨ I also create interactive data visualization dashboards helping to transform raw data into insightful stories. ✨</p>
 
 <p align="center">
-  <br>🔧 Currently transitioning into Site Reliability Engineering, combining my data background with a growing passion for reliability, automation, and infrastructure. 🚀</br>
+  <br>Currently diving into the DevOps world — discovering, breaking, automating, fixing, and loving every second of it.
+Because why just build, when you can build and run it smoothly? 😉</br>
 </p>
 
 <p align="center">
