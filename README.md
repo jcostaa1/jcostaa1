@@ -1,23 +1,25 @@
 <!--header-->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi! I'm Júlia! 👋🏻; Nice to meet ya 🥳&font=Poiret+One&&color=FFFFFF&center=true&width=200&height=50&duration=4000&pause=1000">
-</p>
 
 <!--bio-->
 <p align="center">
-  <b><i>I'm a little data slash tech enthusiast.</i></b>
-    <br>👩🏼‍🎓 <b>Software Developer</b> by degree | Postgraduate in <b>Data Science and Analytics</b> from USP | Blending my data background with DevOps.
+  <br><b><i>I'm a little data slash tech enthusiast. </i></b></br>
+    <br><b>Software Developer</b> by degree | Postgraduate in <b>Data Science and Analytics</b> from USP | Currently studying <b>Data Intelligence for Business</b> at <b>Mackenzie</b>.
 </p>
 
 <!--skills and tools-->
 <p align="center">
-I love working with Python and Java to build solutions and dive deep into SQL, PL/SQL, and NoSQL databases. 
-<br>Cloud lover ☁️ (hiiiiiiiii, AWS) and fan of tools like DBT, Databricks (1x certified), Apache Airflow (2x certified), Kafka, and Docker. </br>
-<br>🛠️ Currently diving into the DevOps world — discovering, breaking, automating, fixing, and loving every second of it. 🚀</br>
+I’m a Data Analyst passionate about transforming data into insights and building solutions that make a real impact. 
+<br>But truth be told: my greatest love is technology itself. I’m always exploring how to push systems further and make things smarter, faster, and more efficient.</br>
+Cloud lover (hiiiiiiiii, AWS 👋) and big fan of tools that make data engineering shine.
 </p>
 
 <p align="center">
   🌱🔎 <i>Endlessly curious, always exploring the latest tech trends.</i>
 </p>
 
+<div style="width: 100%; text-align: center;">
+    <br>
+    <img width="1000" src="images/graph.gif" alt="Gráfico">
+    <br><br>
+</div>
 
