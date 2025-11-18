@@ -3,7 +3,7 @@
 <!--bio-->
 <p align="center">
   <br><b><i>I'm a little data slash tech enthusiast. </i></b></br>
-    <br><b>Software Developer</b> by degree | Specialist in <b>Data Science and Analytics</b> by USP | Currently studying <b>Data Intelligence for Business</b> at <b>Mackenzie</b>.
+    <br><b>Software Developer</b> by degree | Specialist in <b>Data Science and Analytics</b> from USP | Currently studying <b>Data Intelligence for Business</b> at <b>Mackenzie</b>.
 </p>
 
 <!--skills and tools-->
