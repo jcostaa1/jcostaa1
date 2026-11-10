@@ -10,7 +10,7 @@
 <p align="center">
 I’m a Data Analyst passionate about transforming data into insights and building solutions that make a real impact. 
 <br>But truth be told: my greatest love is technology itself. I’m always exploring how to push systems further and make things smarter, faster, and more efficient.</br>
-Cloud lover and currently learning AWS and big fan of tools that make data engineering shine.
+Cloud lover and big fan of tools that make data engineering shine.
 </p>
 
 <p align="center">
